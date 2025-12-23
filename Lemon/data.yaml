@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['lemon']
+
+roboflow:
+  workspace: tenerojz
+  project: lemon-jlkzg-8f14q
+  version: 2
+  license: CC BY 4.0
+  url: https://app.roboflow.com/tenerojz/lemon-jlkzg-8f14q/2
